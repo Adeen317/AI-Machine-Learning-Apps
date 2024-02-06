@@ -26,12 +26,12 @@ Econutrition is an intelligent nutrition app that simplifies healthy eating deci
 
 3. **View Recommendations:** Based on the analysis, receive personalized recommendations on whether the food item aligns with your dietary preferences and goals.
 
-###### 4. **Track Progress:** Keep track of your dietary choices and monitor your progress over time using Econutrition's tracking feature.
+4. **Track Progress:** Keep track of your dietary choices and monitor your progress over time using Econutrition's tracking feature.
 
 ### **Why Econutrition?**
 
-###### Econutrition empowers you to make healthier eating decisions effortlessly, saving you time and effort while promoting better nutrition. With its advanced technology and user-friendly interface, Econutrition is your go-to tool for achieving your health and wellness goals.
+Econutrition empowers you to make healthier eating decisions effortlessly, saving you time and effort while promoting better nutrition. With its advanced technology and user-friendly interface, Econutrition is your go-to tool for achieving your health and wellness goals.
 
 ### **Get Started with Econutrition Today!**
 
-###### Download Econutrition from GitHub and embark on a journey towards better health and nutrition. With Econutrition by your side, achieving your dietary aspirations has never been easier.
+Download Econutrition from GitHub and embark on a journey towards better health and nutrition. With Econutrition by your side, achieving your dietary aspirations has never been easier.
