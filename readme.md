@@ -6,7 +6,7 @@ Econutrition is an intelligent nutrition app that simplifies healthy eating deci
 
 ### **Key Features:**
 
-###### 1. **Image Recognition:** Snap a photo of any food item, and Econutrition's powerful image recognition capabilities instantly identify it, providing accurate nutritional information.
+1. **Image Recognition:** Snap a photo of any food item, and Econutrition's powerful image recognition capabilities instantly identify it, providing accurate nutritional information.
 
 ###### 2. **Nutritional Analysis:** Utilizing cutting-edge algorithms, Econutrition conducts a comprehensive nutritional analysis, considering factors such as calories, macronutrients (carbohydrates, proteins, fats), micronutrients, and more.
 
