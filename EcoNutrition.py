@@ -22,7 +22,7 @@ if file_path:
         file_bytes = f.read()
 
 
-prompt = "What dish is this and also its describe percentage of each ingredients used and also its health effects?"
+prompt = "What dish is this and also its describe percentage of each ingredients used and also its health effects?" #You can chnage this prompt according to our need
 inference_params = dict(temperature=0.4, max_tokens=100)
 
 model_prediction = Model("https://clarifai.com/openai/chat-completion/models/openai-gpt-4-vision").predict(inputs = [Inputs.get_multimodal_input(input_id="", image_bytes = file_bytes, raw_text=prompt)], inference_params=inference_params)
