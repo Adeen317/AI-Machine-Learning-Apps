@@ -35,3 +35,6 @@ Econutrition empowers you to make healthier eating decisions effortlessly, savin
 ### **Get Started with Econutrition Today!**
 
 Download Econutrition from GitHub and embark on a journey towards better health and nutrition. With Econutrition by your side, achieving your dietary aspirations has never been easier.
+
+### **Access the source code from here**
+- [Source Code](https://github.com/Adeen317/AI-Machine-Learning-Apps/blob/main/EcoNutrition.py)
