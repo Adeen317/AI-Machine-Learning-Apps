@@ -1,5 +1,6 @@
 # AI Machine Learning Apps
 ## Table of Contents
+- [DreamVue](https://github.com/Adeen317/AI-Machine-Learning-Apps/tree/adeen_space/DreamVue)
 - [EcoNutrition](https://github.com/Adeen317/AI-Machine-Learning-Apps/tree/main/EcoNutrition)
 
 # **Econutrition - Your Smart Nutrition Advisor**
@@ -42,3 +43,33 @@ Download Econutrition from GitHub and embark on a journey towards better health 
 
 ### **Access the source code from here**
 - [Source Code](https://github.com/Adeen317/AI-Machine-Learning-Apps/blob/main/EcoNutrition/EcoNutrition.py)
+
+# DreamVue
+
+Welcome to DreamVue, your gateway to understanding the hidden meanings behind your dreams. This innovative project utilizes advanced AI technologies, including DALL-E and GPT-4 Vision, to provide personalized dream analyses like never before.
+
+## Overview
+
+DreamVue offers a seamless dream analysis experience, combining visual and textual interpretations to provide deep insights into your subconscious thoughts and emotions. By submitting details of your dream, you'll receive a rich analysis that includes striking visual representations and insightful textual explanations.
+
+## Features
+
+- **Advanced AI Technologies**: Harnesses the power of DALL-E and GPT-4 Vision for accurate dream analysis.
+  
+- **Personalized Experience**: Tailored interpretations based on your unique dream content.
+  
+- **Visual Representations**: Beautifully rendered images bring your dreams to life.
+  
+- **Textual Analyses**: Detailed explanations unravel the underlying themes of your dreams.
+
+
+## Privacy and Security
+
+DreamVue prioritizes the privacy and security of user data. All information submitted through the app is securely stored and treated confidentially.
+
+## Conclusion
+
+Experience the power of DreamVue and embark on a transformative journey of self-discovery. Download the app today and unlock the secrets of your dreams.
+- [Source Code](https://github.com/Adeen317/AI-Machine-Learning-Apps/tree/adeen_space/DreamVue)
+
+PS. For .env file generate security key from clarifai account.
