@@ -1,6 +1,6 @@
 # AI Machine Learning Apps
 ## Table of Contents
-- [DreamVue](https://github.com/Adeen317/AI-Machine-Learning-Apps/tree/adeen_space/DreamVue)
+- [DreamVue](https://github.com/Adeen317/AI-Machine-Learning-Apps/tree/main/DreamVue)
 - [EcoNutrition](https://github.com/Adeen317/AI-Machine-Learning-Apps/tree/main/EcoNutrition)
 
 # **Econutrition - Your Smart Nutrition Advisor**
